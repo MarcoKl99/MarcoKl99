@@ -28,8 +28,9 @@ Here is a table of short descriptions about the currently public repositories.
 
 |Name|Tech-Stack|Description|
 |---|---|---|
-|C-string-lib|C|A String library in C, providing various functions for dynamically handling `char *` and a custom wrapper struct `dstring_t` for memory management, used in a small CLI for populating templates from files and strings|
-|cpp-csv-reader|C++|Small Refresher of C++ skills, implements a CSV file reader (parser) and provide a few statictical functionalities like mean, median, standard deviation, etc.|
+|📝 C-string-lib|C|A String library in C, providing functions for dynamically handling `char *` and a custom wrapper struct `dstring_t` for memory management, used in a small CLI for populating templates from files and strings|
+|📊 cpp-csv-reader|C++|Small Refresher of C++ skills, implements a CSV file reader (parser) and provide a few statictical functionalities like mean, median, standard deviation, etc.|
+|🧠 DiffusionLab|Python|A nice little project on Diffusion Models using Python and PyTorch. It implements the basic idea of DDPM by training a simple MLP on the 2D toy dataset `moons`, a small CNN based approach on MNIST inspired by the U-Net architecture, and the same U-Net style CNN on CIFAR-10|
 |...|...|...|
 
 ## Fun Facts 🧩
