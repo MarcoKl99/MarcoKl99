@@ -14,8 +14,6 @@ Welcome to my GitHub profile, I am happy that you're here! My name is Marco, I a
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-***My teck-stack is two fold ❗️***
-
 As I am working in Data Engineering and coming from a Mathematics background, I am highly passionate about Machine Learning, which is mostly done in Python using High-Level frameworks like PyTorch or Scikit-Learn.
 
 Still, besides these incredible frameworks, I love to go back to the basics and develop personal projects using a Low-Level language like C. This helps me understand the basic concepts of programming, taking care of memory management and carefully thinking about stuff like memory ownership and efficiency.
@@ -29,8 +27,8 @@ Here is a table of short descriptions about the currently public repositories.
 |Name|Tech-Stack|Description|
 |---|---|---|
 |📝 C-string-lib|C|A String library in C, providing functions for dynamically handling `char *` and a custom wrapper struct `dstring_t` for memory management, used in a small CLI for populating templates from files and strings|
-|📊 cpp-csv-reader|C++|Small Refresher of C++ skills, implements a CSV file reader (parser) and provide a few statictical functionalities like mean, median, standard deviation, etc.|
 |🧠 DiffusionLab|Python|A nice little project on Diffusion Models using Python and PyTorch. It implements the basic idea of DDPM by training a simple MLP on the 2D toy dataset `moons`, a small CNN based approach on MNIST inspired by the U-Net architecture, and the same U-Net style CNN on CIFAR-10|
+|🧩 neural-core-cpp|C++20|An educational C++ implementation of the core building blocks behind deep learning frameworks, including tensors, automatic differentiation, optimizers, loss functions and end-to-end MNIST training.|
 |...|...|...|
 
 ## Fun Facts 🧩
@@ -41,4 +39,4 @@ Here is a table of short descriptions about the currently public repositories.
 
 ## More 👋
 
-[LinkedIn](https://www.linkedin.com/in/marco-kleimaier-739359193) • [Portfolio](https://marcokl.ch)
+[LinkedIn](https://www.linkedin.com/in/marco-kleimaier-739359193)
