@@ -13,6 +13,7 @@ Welcome to my GitHub profile, I am happy that you're here! My name is Marco, I a
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 As I am working in Data Engineering and coming from a Mathematics background, I am highly passionate about Machine Learning, which is mostly done in Python using High-Level frameworks like PyTorch or Scikit-Learn.
 
