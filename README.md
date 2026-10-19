@@ -30,6 +30,7 @@ Here is a table of short descriptions about the currently public repositories.
 |📝 C-string-lib|C|A String library in C, providing functions for dynamically handling `char *` and a custom wrapper struct `dstring_t` for memory management, used in a small CLI for populating templates from files and strings|
 |🧠 DiffusionLab|Python|A nice little project on Diffusion Models using Python and PyTorch. It implements the basic idea of DDPM by training a simple MLP on the 2D toy dataset `moons`, a small CNN based approach on MNIST inspired by the U-Net architecture, and the same U-Net style CNN on CIFAR-10|
 |🧩 neural-core-cpp|C++20|An educational C++ implementation of the core building blocks behind deep learning frameworks, including tensors, automatic differentiation, optimizers, loss functions and end-to-end MNIST training.|
+|🤖 LLM-Lab|Python|A from-scratch, config-driven language-model lab: a byte-level BPE tokenizer, an LSTM baseline and a GPT-style decoder transformer trained from random initialization, with a shared training harness and scaling experiments (model size, data, compute) toward a ~350M medium language model|
 |...|...|...|
 
 ## Fun Facts 🧩
